@@ -74,4 +74,9 @@ Libraries: PyTorch, TorchVision, scikit-learn
 - Data augmentation  
 - Try ResNet34 / EfficientNet  
 - Export to ONNX/TorchScript  
-- Build a small web demo  
+- Build a small web demo
+
+
+## 📬 Contact
+
+If you have ideas, suggestions, or want to collaborate, feel free to open an issue or reach out.
