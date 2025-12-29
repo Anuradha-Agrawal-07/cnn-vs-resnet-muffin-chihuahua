@@ -5,6 +5,7 @@ The goal was to compare a convolutional neural network built from scratch with a
 
 ## Dataset
 kaggle link : https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification/data
+
 Two-class image dataset:
 
 ```
