@@ -65,7 +65,6 @@ Libraries: PyTorch, TorchVision, scikit-learn
 .
 ├── scratch_cnn.ipynb
 ├── resnet18_transfer.ipynb
-├── images/
 └── README.md
 ```
 
