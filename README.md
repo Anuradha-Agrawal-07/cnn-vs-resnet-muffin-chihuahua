@@ -4,7 +4,7 @@ This project explores the classic “muffin vs chihuahua” visual confusion pro
 The goal was to compare a convolutional neural network built from scratch with a transfer-learning approach using ResNet18.
 
 ## Dataset
-
+kaggle link : https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification/data
 Two-class image dataset:
 
 ```
