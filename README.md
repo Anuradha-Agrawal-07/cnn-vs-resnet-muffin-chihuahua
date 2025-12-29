@@ -26,7 +26,8 @@ Images were resized to either **128×128** (scratch CNN) or **224×224** (ResNet
 - Max-Pooling  
 - Batch Normalization  
 - Dropout  
-- Fully connected classifier  
+- Fully connected classifier
+- Trained for 15 epochs  
 
 **Accuracy:** ~92%
 
@@ -56,7 +57,7 @@ Classification Report:
 ## Training Environment
 
 Performed in Google Colab with GPU.  
-Libraries: PyTorch, TorchVision, scikit-learn, matplotlib, seaborn.
+Libraries: PyTorch, TorchVision, scikit-learn
 
 ## Repo Structure
 
